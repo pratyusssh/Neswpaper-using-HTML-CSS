@@ -1,0 +1,50 @@
+.sm{
+    font-size:0.65rem;
+}
+.ms{
+    font-family: "Vonnes";
+    font-size: 1.0rem;
+    text-align: right;
+}
+.fi{
+    width: 60%;
+    position: relative;
+    top: 0px;
+    left: 35%;
+}
+.ns{
+    font-family: "Vonnes";
+    font-size: 0.75rem;
+    position: absolute;
+    bottom: 3.5%;
+    left: 1.5%;
+    top: 40%;
+}
+.ks{
+    font-family: "Vonnes";
+    font-size: 0.75rem;
+    position: absolute;
+    top: 55.5%;
+    right: 36.5%;
+}
+.ps{
+    font-family: "Vonnes";
+    font-size: 0.75rem;
+    position: absolute;
+    top: 53.5%;
+    right: 23.5%;
+}
+.os{
+    font-family: "Vonnes";
+    font-size: 0.75rem;
+    position: absolute;
+    bottom: 1.75%;
+    right: 13.5%;
+}
+.ts{
+    font-family: "Vonnes";
+    font-size: 0.75rem;
+    position: absolute;
+    bottom: 1.75%;
+    right: 1.25%;
+}
